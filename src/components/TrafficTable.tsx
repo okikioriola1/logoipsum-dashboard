@@ -1,5 +1,3 @@
-import React from 'react';
-
 import GoogleBar from '../assets/google-bar.svg'
 import YoutubeBar from '../assets/youtube-bar.svg'
 import FacebookBar from '../assets/facebook-bar.svg'

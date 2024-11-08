@@ -1,5 +1,3 @@
-import React from 'react';
-
 import FixedBugIcon from '../assets/fixed-bug-icon.svg'
 import NewUserIcon from '../assets/new-user-icon.svg'
 import SubscribedIcon from '../assets/subscribed-icon.svg'

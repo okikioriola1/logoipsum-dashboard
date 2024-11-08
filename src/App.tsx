@@ -1,11 +1,9 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import Sidebar from './components/Sidebar';
 import Header from './components/Header';
 import StatCard from './components/StatCard';
-import LineChart from './components/TotalGraph';
 import TrafficTable from './components/TrafficTable';
 import NotificationsPanel from './components/NotificationsPanel';
-import { Menu } from 'lucide-react';
 import TrafficByLocation from './components/TrafficByLocation';
 import ReportsGenerated from './components/ReportsGenerated';
 import MarketingSeo from './components/MarketingSeo';
